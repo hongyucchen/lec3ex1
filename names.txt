@@ -1,3 +1,6 @@
 Hongyu Chen
+<<<<<<< HEAD
 Xianyue Li
 Mei Fu
+=======
+>>>>>>> parent of 7797d58... C
