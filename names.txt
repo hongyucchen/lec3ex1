@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hongyu Chen
 Xianyue Li
 Mei Fu
+=======
+Hongyu Chen
+>>>>>>> parent of 90d8460... added Xianyue
